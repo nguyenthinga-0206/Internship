@@ -1,0 +1,1 @@
+tao db roi tạo bảng trước khi chạy code
