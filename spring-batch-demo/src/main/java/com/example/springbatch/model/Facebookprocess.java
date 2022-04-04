@@ -97,5 +97,10 @@ public class Facebookprocess {
         this.date_fb = date_fb;
     }
 
+    @Override
+    public String toString() {
+        return ad_name_lpid + "," + cpc + "," + cpm + "," + ctr + "," + id + "," + sumclick + "," + sumcost + "," + sumimpression + "," + date_fb;
+    }
+
     
 }
